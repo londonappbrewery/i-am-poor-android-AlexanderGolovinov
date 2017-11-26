@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">I Am Poor</string>
+    <string name="app_name"> I Am Poor </string>
+    <string name="reachText"> I am Reach! </string>
+    <string name="poorText"> I am Poor! </string>
+    <string name="btnPoor"> Make me reach </string>
+    <string name="btnReach"> Make me poor </string>
+
+
 </resources>
